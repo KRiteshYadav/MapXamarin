@@ -1,0 +1,13 @@
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.deps.json
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.dll
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.AssemblyInfoInputs.cache
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.AssemblyInfo.cs
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\bin\Debug\netstandard2.0\ref\Maps.dll
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.pdb
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.dll
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\ref\Maps.dll
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.pdb
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.csprojAssemblyReference.cache
+C:\Users\KY185041\source\repos\Maps\Maps\Maps\obj\Debug\netstandard2.0\XamlC.stamp
